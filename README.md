@@ -1,1 +1,1 @@
-<p style="color:blue">Make this text blue.</p>
+<font color="red">This text is red!</font>
