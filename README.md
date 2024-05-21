@@ -1,1 +1,3 @@
-hello<br>hey there
+&copy
+&reg
+&trade
